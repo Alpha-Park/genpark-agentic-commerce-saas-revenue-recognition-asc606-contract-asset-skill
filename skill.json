@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-saas-revenue-recognition-asc606-contract-asset-skill",
+  "version": "1.0.0",
+  "title": "SaaS ASC 606 Multi-Element Revenue Recognition & Contract Asset Skill",
+  "category": "Agentic Commerce (Corporate FinTech & GAAP/IFRS 15)",
+  "description": "Applies ASC 606 5-Step Model to multi-element contracts (Software licenses, Professional services, Annual maintenance), calculates Relative Standalone Selling Price (SSP) allocation and contract liabilities.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "model_asc606_revenue_schedules"
+  ],
+  "dependencies": []
+}
